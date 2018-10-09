@@ -1,6 +1,6 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"Security ISC Proposal"
 proposal.file<-"isc-proposal.Rmd"
-author<-"Steph Locke"
+author<-"Locke Data"
 
 rmarkdown::render(proposal.file, output_format="html_document",
                   output_dir="out", quiet=TRUE)
