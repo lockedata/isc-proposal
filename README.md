@@ -20,3 +20,5 @@ Provide guidance for users, developers, administrators. Make it easy to understa
 * Assess where tooling development is still needed
 
 * Create a system for folks to provide tutorials for the website. Write best practice for said tutorials.
+
+* Create a security oriented GitHub org for developing security packages for wider adoption
